@@ -8,5 +8,8 @@ Pluralsight JS Development Environment setup
   - development web server with express
   - sharing work in progress using localtunnel
 5. script automation in "package.json"
+  - concurrent command using "npm-run-all --parallel"
+6. create ".barbelrc" in project_root for transpiling configuration
+
 
 
