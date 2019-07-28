@@ -10,6 +10,9 @@ Pluralsight JS Development Environment setup
 5. script automation in "package.json"
   - concurrent command using "npm-run-all --parallel"
 6. create ".barbelrc" in project_root for transpiling configuration
+7. create "webpack.config.js" in project-root for bundling
+  - configure "srcServer.js" to work with webpack
+  - create inddex.js in src folder
 
 
 
